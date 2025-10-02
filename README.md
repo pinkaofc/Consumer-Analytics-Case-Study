@@ -31,6 +31,4 @@ This project explores consumer behavior using real-world data to uncover actiona
 - `consumer_final_case_study.xlsx`: Raw and processed data
 - `PowerBI_dashboard.pbix`: Interactive dashboard (optional)
 - `README.md`: Project summary and instructions
----
 
-Once your data is finalized, I can help you fill in the actual insights and visuals. Wan
